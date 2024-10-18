@@ -44,5 +44,5 @@ fun main() {
     val customComparator = CustomComparator()
 
     Arrays.sort(arrayCars, CustomComparator())
-    println(arrayCars.contentToString())
+
 }
