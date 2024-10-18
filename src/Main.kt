@@ -45,4 +45,5 @@ fun main() {
 
     Arrays.sort(arrayCars, CustomComparator())
 
+    fun hi() {}
 }
